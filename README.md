@@ -1,2 +1,2 @@
-# Backpropagation_from_scratch
+# Backpropagation
 Building backpropagation from scratch
